@@ -7,6 +7,8 @@ description: >-
 
 # Table
 
+{% embed url="https://www.youtube.com/watch?v=sgd-DMJsAHs&feature=youtu.be" caption="" %}
+
 ## Displaying Data in a table
 
 A table takes data in the form of an array of objects. Adding an array of objects to the table data will display each object as a row of data with each key of the object as a column in the table.
